@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Ruby on Rails**
 
-- 👯 I’m looking to collaborate on **PHP, Laravel, Rails**
+- 👯 I’m looking to collaborate on **PHP, Laravel, Symfony, Rails, Node.js**
 
-- 💬 Ask me about **php, laravel, react, rails, python**
+- 💬 Ask me about **php, laravel, symfony, react, rails, nodejs**
 
 - 📫 How to reach me **arslanramay104@gmail.com**
 
