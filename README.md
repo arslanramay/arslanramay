@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **PHP, Laravel, Symfony, Slim, Rails, Node.js, Docker, REST & GraphQL API Development**
 
-- 💬 Ask me about **php, laravel, symfony, slimphp, react, rails, nodejs, docker, graphql**
+- 💬 Ask me about **php, laravel, symfony, slimphp, reactjs, rails, nodejs, docker, graphql**
 
 - 📫 How to reach me **arslanramay104@gmail.com**
 
