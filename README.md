@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://twitter.com/arslanramay104" target="blank"><img src="https://img.shields.io/twitter/follow/arslanramay104?logo=twitter&style=for-the-badge" alt="arslanramay104" /></a> </p>
 
-- 🔭 I’m currently working on **Ruby on Rails**
+- 🔭 I’m currently working on **Python Django**
 
-- 👯 I’m looking to collaborate on **PHP, Laravel, Symfony, Slim, Rails, Node.js, Docker, REST & GraphQL API Development**
+- 👯 I’m looking to collaborate on **PHP, Laravel, Symfony, Slim, Python, Django, FastAPI, Node.js, Docker, REST & GraphQL API Development**
 
-- 💬 Ask me about **php, laravel, symfony, slimphp, reactjs, rails, nodejs, docker, graphql**
+- 💬 Ask me about **php, laravel, symfony, slimphp, reactjs, python, nodejs, docker, graphql**
 
 - 📫 How to reach me **arslanramay104@gmail.com**
 
