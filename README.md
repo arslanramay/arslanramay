@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Python Django**
 
-- 👯 I’m looking to collaborate on **PHP, Laravel, Symfony, Slim, Python, Django, FastAPI, Node.js, Docker, REST & GraphQL API Development**
+- 👯 I’m looking to collaborate on **PHP, Laravel, Symfony, Slim, Python, Django, FastAPI, Node.js, Nest.js, Docker, REST & GraphQL API Development**
 
 - 💬 Ask me about **php, laravel, symfony, slimphp, reactjs, python, nodejs, docker, graphql**
 
