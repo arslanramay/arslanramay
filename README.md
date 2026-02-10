@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on **Python FastAPI** based services.
 
-- 👯 I’m looking to collaborate on **PHP, Laravel, Slim PHP, Python, FastAPI, FastAPI, Node.js, Nest.js, Docker, REST & GraphQL API Development**
+- 👯 I’m looking to collaborate on **Python, FastAPI, FastAPI, PHP, Laravel, Node.js, Nest.js, Docker, REST & GraphQL API Development**
 
-- 💬 Ask me about **php, laravel, symfony, slimphp, reactjs, python, nodejs, docker, graphql**
-
-- 📫 How to reach me **arslanramay104@gmail.com**
+- 💬 Ask me about **python, fastapi, php, laravel, symfony, reactjs, nodejs, docker, graphql**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
