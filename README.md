@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/arslanramay104" target="blank"><img src="https://img.shields.io/twitter/follow/arslanramay104?logo=twitter&style=for-the-badge" alt="arslanramay104" /></a> </p>
 
-- 🔭 I’m currently working on **Python FastAPI** based services.
+- 🔭 I’m currently working on **Python FastAPI** based AI & ML services.
 
 - 👯 I’m looking to collaborate on **Python, FastAPI, FastAPI, PHP, Laravel, Node.js, Nest.js, Docker, REST & GraphQL API Development**
 
